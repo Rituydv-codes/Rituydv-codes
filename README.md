@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Ritu Yadav
+<h1 align="center">##Hi 👋, I'm Ritu Yadav</h1>
+
+<h3 align="center">💻 Computer Science Engineering Student | Java Developer | Full-Stack Developer</h3>
+
+
 
 ### 💻 Java | Python | Full Stack Developer | CSE Student
 
