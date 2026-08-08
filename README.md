@@ -2,7 +2,9 @@
 
 <h3 align="center">💻 Computer Science Engineering Student | Java Developer | Full-Stack Developer</h3>
 
-
+<p align="center">
+  <img src="c9fd17be0842ced243bdd8308b55930f.jpg" width="3000">
+</p>
 
 ### 💻 Java | Python | Full Stack Developer | CSE Student
 
@@ -57,14 +59,6 @@ I'm a Computer Science Engineering student passionate about building web applica
 
 🔗 [View Project](https://github.com/Rituydv-codes/Laptop-setup-concierge)
 
-## 🏆 Achievements
-
-- Solved DSA problems using Java
-- Built full-stack and Java-based academic projects
-- Hands-on experience with backend development and database management
-
----
-
 ## 🔥 Most Used Languages
 
 <p align="center">
@@ -95,8 +89,6 @@ I'm a Computer Science Engineering student passionate about building web applica
 📧 **Email:** rituvadav2858@gmail.com
 
 🔗 **LinkedIn:** [Ritu Yadav](https://www.linkedin.com/in/ritu-yadav-49b8433640)
-
-💻 **GitHub:** [Rituydv-codes](https://github.com/Rituydv-codes)
 
 🌐 **Portfolio:** [My Portfolio](https://rituydv-codes.github.io/MyPortfolio/)
 
