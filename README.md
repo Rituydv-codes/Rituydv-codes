@@ -28,26 +28,30 @@ I'm a Computer Science Engineering student passionate about building web applica
 
 ## 🚀 Projects
 
-### 🤖 AI Chat Assistant — My Gemini
+### 🤖 [AI Chat Assistant — My Gemini](https://github.com/Rituydv-codes/AI-Chats-Assistant-My-Gemini-)
 - Built an AI-powered conversational assistant using **JavaScript & Google Gemini API**
 - Implemented **multi-turn chat functionality** and real-time AI response generation
 - Created a responsive interface using **HTML & Tailwind CSS**
 
-### 👨‍🏫 Tutor Finder Website
+🔗 [View Project](https://github.com/Rituydv-codes/AI-Chats-Assistant-My-Gemini-)
+
+---
+
+### 👨‍🏫 [Tutor Finder Website](https://github.com/Rituydv-codes/Edu_mentor-main)
 - Developed a full-stack web application using **Node.js & MongoDB**
 - Connects students with tutors based on **location**
 - Designed a responsive UI and implemented **REST APIs** for user and tutor management
 
-### 💻 Laptop Setup Concierge
-- Built a **Java-based application** to guide users through laptop setup and software installation
-- Applied **Object-Oriented Programming (OOP)** concepts
-- Provides tool recommendations and helps streamline the system onboarding experience
+🔗 [View Project](https://github.com/Rituydv-codes/Edu_mentor-main)
 
 ---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,nodejs,mongodb,mysql,git,github,vscode,postman" />
-</p>
+### 💻 [Laptop Setup Concierge](https://github.com/Rituydv-codes/Laptop-setup-concierge)
+- Built a **Java-based application** to guide users through laptop setup and software installation
+- Applied **Object-Oriented Programming (OOP)** concepts
+- Provides tool recommendations and helps streamline system onboarding
+
+🔗 [View Project](https://github.com/Rituydv-codes/Laptop-setup-concierge)
 
 ## 🏆 Achievements
 
