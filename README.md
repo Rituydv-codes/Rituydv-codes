@@ -45,6 +45,10 @@ I'm a Computer Science Engineering student passionate about building web applica
 
 ---
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,nodejs,mongodb,mysql,git,github,vscode,postman" />
+</p>
+
 ## 🏆 Achievements
 
 - Solved DSA problems using Java
